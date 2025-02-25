@@ -1,6 +1,6 @@
 #
 # Configuration for staging environment 
-# force 11/12
+# force a staging
 #  
 version: 1.0
 app:
