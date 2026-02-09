@@ -1,6 +1,6 @@
 #
 # Configuration for staging environment 
-# force a staging force again and again
+# force a staging force again and again again
 #  
 version: 1.0
 app:
